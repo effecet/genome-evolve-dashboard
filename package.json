@@ -1,0 +1,20 @@
+{
+  "name": "genome-evolve-dashboard",
+  "version": "3.1.0",
+  "description": "SKILLGENOME — personal skill genome tracker with auto-generated daily practice cycles",
+  "license": "MIT",
+  "author": "effece",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/effecet/genome-evolve-dashboard.git"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "serve": "python3 -m http.server 8080 --directory ."
+  },
+  "devDependencies": {
+    "vitest": "^3.1.0"
+  }
+}

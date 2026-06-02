@@ -1,0 +1,13 @@
+title = "genome-evolve-dashboard gitleaks config"
+
+[allowlist]
+description = "Global ignore list"
+paths = [
+    '''package-lock\.json''',
+    '''\.forgejo/.*''',
+    '''docs/.*''',
+]
+regexes = [
+    # fake tokens used in tests
+    '''fake-token-[a-zA-Z0-9-]+''',
+]

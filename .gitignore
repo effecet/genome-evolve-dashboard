@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+data/daily-cycle.json
+data/session-assessment.json
+.DS_Store
+*.log

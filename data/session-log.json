@@ -1,0 +1,44 @@
+{
+  "entries": [
+    {
+      "date": "2026-03-14",
+      "time": "12:30",
+      "skill": "livecode",
+      "domain": "Live Coding (Strudel + Hydra)",
+      "category": "Creative",
+      "context": "composed tarantella calabrese with 6/8 tamburello, phrygian dominant melody, and warm firelight Hydra visuals"
+    },
+    {
+      "date": "2026-03-14",
+      "time": "12:50",
+      "skill": "commit",
+      "domain": "Git Workflow",
+      "category": "Engineering",
+      "context": "committed tarantella calabrese combined composition"
+    },
+    {
+      "date": "2026-03-14",
+      "time": "21:00",
+      "skill": "using-superpowers",
+      "domain": "Skill Authoring",
+      "category": "AI Engineering",
+      "context": "created project-hygiene.md rule — Makefile + README checks on every project task, collision-checked against 7 existing rules"
+    },
+    {
+      "date": "2026-03-14",
+      "time": "21:10",
+      "skill": "using-superpowers",
+      "domain": "Architecture & Planning",
+      "category": "AI Engineering",
+      "context": "diagnosed and fixed track.py early-return bug killing token notifications after wrap-up, plus added 3-layer transcript path discovery fallback"
+    },
+    {
+      "date": "2026-03-14",
+      "time": "21:15",
+      "skill": "commit",
+      "domain": "Git Workflow",
+      "category": "Engineering",
+      "context": "committed 3 changes: project-hygiene rule, wrap_up_ran fix, transcript discovery"
+    }
+  ]
+}

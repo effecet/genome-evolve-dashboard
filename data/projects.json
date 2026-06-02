@@ -1,0 +1,50 @@
+[
+  {
+    "id": "proj_researcher",
+    "name": "Researcher Investigator",
+    "description": "Deep research skill — multi-source investigation, verified citations, structured reports",
+    "createdAt": "2026-03-14",
+    "skills": [
+      {
+        "id": "sk_web_research",
+        "name": "Web Research & Source Verification",
+        "category": "Research",
+        "level": 4,
+        "lastAssessed": null,
+        "history": []
+      },
+      {
+        "id": "sk_struct_report",
+        "name": "Structured Report Generation",
+        "category": "Writing",
+        "level": 4,
+        "lastAssessed": null,
+        "history": []
+      },
+      {
+        "id": "sk_citations",
+        "name": "Citation Management",
+        "category": "Research",
+        "level": 3,
+        "lastAssessed": null,
+        "history": []
+      },
+      {
+        "id": "sk_prompt_eng",
+        "name": "Prompt Engineering for Research",
+        "category": "AI Engineering",
+        "level": 4,
+        "lastAssessed": null,
+        "history": []
+      },
+      {
+        "id": "sk_multi_source",
+        "name": "Multi-Source Synthesis",
+        "category": "Research",
+        "level": 3,
+        "lastAssessed": null,
+        "history": []
+      }
+    ]
+  }
+]
