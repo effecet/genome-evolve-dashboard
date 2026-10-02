@@ -3,8 +3,8 @@
 [![vitest](https://github.com/effecet/genome-evolve-dashboard/actions/workflows/vitest.yml/badge.svg)](https://github.com/effecet/genome-evolve-dashboard/actions/workflows/vitest.yml)
 [![gitleaks](https://github.com/effecet/genome-evolve-dashboard/actions/workflows/gitleaks.yml/badge.svg)](https://github.com/effecet/genome-evolve-dashboard/actions/workflows/gitleaks.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Node](https://img.shields.io/badge/Node-20.x-339933?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Vitest](https://img.shields.io/badge/Vitest-3.x-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev)
+[![Node](https://img.shields.io/badge/Node-24-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Vitest](https://img.shields.io/badge/Vitest-5.x-6E9F18?logo=vitest&logoColor=white)](https://vitest.dev)
 [![React](https://img.shields.io/badge/React-CDN-61DAFB?logo=react&logoColor=black)](https://react.dev)
 [![Mermaid](https://img.shields.io/badge/Mermaid-diagrams-FF3670?logo=mermaid&logoColor=white)](https://mermaid.js.org)
 
