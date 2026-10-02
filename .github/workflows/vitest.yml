@@ -3,6 +3,9 @@ on:
   push:
     branches: [main, master]
   pull_request:
+  schedule:
+    - cron: "0 6 * * 1"  # weekly, Mondays 06:00 UTC: keeps the badge honest against dependency drift
+  workflow_dispatch:
 
 jobs:
   vitest:
